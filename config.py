@@ -1,0 +1,10 @@
+NUM_BATCH = 20
+NUM_LABEL_BEFORE = 10
+NUM_LABEL_AFTER = 8
+DATA_TRAIN = "TT.npy"
+DATA_TEST_X = "TX.npy"
+DATA_TEST_Y = "TY.npy"
+INDEX_TEST_ALL = "TXI.npy"
+
+STU_DATA_TRAIN = "data_train.npy"
+STU_DATA_TEST_X = "data_test_x.npy"
